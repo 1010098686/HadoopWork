@@ -1,0 +1,1 @@
+input/people_name_list.txt input/novels SplitOut AppearCountOut NormalizeOut PageRankOut LabelProOut LabelOut 

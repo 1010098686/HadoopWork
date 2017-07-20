@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HadoopWork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HadoopWork_jar</output-path>
+    <root id="archive" name="HadoopWork.jar">
+      <element id="module-output" name="HadoopWork" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ansj_seg-3.2-all-in-one.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
